@@ -1,4 +1,7 @@
-This system has high security and good privacy protection.
-This system in running faster than other system.
-This system is relatively stable, and it is not easy to crash or stall.
-This system is easy to use and understand.
+The Ios system has high security and good privacy protection.
+The Ios system is running faster than other system.
+The IoS system is relatively stable, and it is not easy to crash or stall.
+The Ios system is easy to use and understand.
+The Android system has a lot of security concerns.
+The Android system has fewer restrictions on apps downloads.
+The Android system support a memory card.
